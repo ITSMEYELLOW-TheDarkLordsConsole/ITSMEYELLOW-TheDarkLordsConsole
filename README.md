@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a student, learning how to code! I'm fairly new to GitHub, so I don't know how everything works quite yet. You might recognize my username if you're a fan of Animator vs Animation like I am. (I'm not really a yellow stick figure, although that would be cool.) Currently, I'm not working on much here, but I'm interested in learning more about coding. My pronouns are she/they.
+I'm a student, learning how to code! I'm fairly new to GitHub, so I don't know how everything works quite yet. You might recognize my username if you're a fan of Animator vs Animation like I am. (I'm not really a yellow stick figure, although that would be cool.) Currently, I'm not working on much here, but I'm interested in learning more about coding. I use any pronouns.
 
 <!--
 **ITSMEYELLOW-TheDarkLordsConsole/ITSMEYELLOW-TheDarkLordsConsole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
